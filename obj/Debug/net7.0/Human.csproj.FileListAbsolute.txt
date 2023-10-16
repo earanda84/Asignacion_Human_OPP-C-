@@ -1,0 +1,15 @@
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/bin/Debug/net7.0/Human
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/bin/Debug/net7.0/Human.deps.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/bin/Debug/net7.0/Human.runtimeconfig.json
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/bin/Debug/net7.0/Human.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/bin/Debug/net7.0/Human.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.csproj.AssemblyReference.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.GeneratedMSBuildEditorConfig.editorconfig
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.AssemblyInfoInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.AssemblyInfo.cs
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.csproj.CoreCompileInputs.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/refint/Human.dll
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.pdb
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/Human.genruntimeconfig.cache
+/home/nino/Escritorio/CodingDojo/Bootcamp/C#_NET/semana_6/dia_3/Human/obj/Debug/net7.0/ref/Human.dll
